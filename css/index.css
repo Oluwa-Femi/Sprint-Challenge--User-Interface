@@ -75,12 +75,10 @@ header{
     flex: display;
     flex-direction: row;
     align-items: baseline;
+    padding-bottom: 20px;
     
 }
-header .logo {
-    display: flex;
-    align-items: flex-start;
-}
+
 header nav{
     display: flex;
     align-items: flex-end;
