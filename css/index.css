@@ -263,13 +263,19 @@ footer nav a {
 .about {
     padding: 20px 0px 20px 0px;
     border-bottom: 1px dashed black;
-}
 
+}
+.work {
+}
+.work p{
+    padding-bottom: 30px;
+}
 .container1 {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
     margin-bottom: 20px;
+    padding: 20px 0px 20px 0px;
 }
 .container1 header {
     display:flex;
