@@ -48,7 +48,7 @@ Border edge
 The middle axis
 
 5. Explain why git is valuable to a team of developers.
-It aids collaborative effort- It allows for several developers to work together on projects without distortion.It also  makes it easy for a developer to upload his work and to have it reviewed by a supervisor. The supervisor can also choose to drop comments for the developer thereby aiding workflow
+It aids collaborative effort- It allows for several developers to work together on projects without distortion.It also  makes it easy for a developer to upload his work and to have it reviewed by a supervisor. The supervisor can also choose to drop comments for the developer thereby aiding workflow.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
